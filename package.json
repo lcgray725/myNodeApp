@@ -1,0 +1,19 @@
+{
+  "name": "mynodeapp",
+  "version": "1.0.0",
+  "description": "This is a test node app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lcgray725/myNodeApp.git"
+  },
+  "author": "Linda Gray",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lcgray725/myNodeApp/issues"
+  },
+  "homepage": "https://github.com/lcgray725/myNodeApp#readme"
+}
